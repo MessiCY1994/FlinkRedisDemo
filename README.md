@@ -1,0 +1,3 @@
+两个demo
+1：启动socketdemo，在控制端输入数据，启动flinksocketdemo，存入redis
+2：启动kafkaproducter，启动flinkkafkaredisdemo，获取数据，存入redis
